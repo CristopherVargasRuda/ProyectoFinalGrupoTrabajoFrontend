@@ -473,3 +473,15 @@ footer {
         height: 100px;
     }
 }
+
+/* !!! Vista 3 !!! ----------------------------------------------------------------*/
+
+.vista-3 {
+    display: none;
+}
+
+@media(min-width: 670px) {}
+
+@media(max-width: 670px) {}
+
+@media(max-width: 420px) {}
